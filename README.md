@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ai-image-text-to-speech.git
+git clone https://github.com/Ram0067/ai-image-text-to-speech.git
 cd ai-image-text-to-speech
 Install the required dependencies: You can install the required Python libraries using the following command:
 
@@ -63,6 +63,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgments
 Thanks to Innomatics Research Labs for their support and guidance during this project.
 Special thanks to the authors of the libraries and resources used in this project:
+
+
 Tesseract OCR
 OpenCV
 gTTS
